@@ -1,6 +1,5 @@
-title: Sungeun 
-# logo:
-
-show_downloads: true
 theme: jekyll-theme-minimal
-# remote_theme: pages-themes/minimal@v0.2.0
+title: Sungeun's portfolio
+description: [A short description of your site's purpose]
+
+show_downloads: false
