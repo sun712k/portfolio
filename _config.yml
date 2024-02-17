@@ -1,6 +1,9 @@
-theme: jekyll-theme-minimal
 title: Sungeun Portfolio
-# logo: 
+logo: /assets/img/logo.png
 description: A short description of your site's purpose
 
 show_downloads: false
+theme: jekyll-theme-minimal 
+# https://github.com/pages-themes/minimal
+
+
