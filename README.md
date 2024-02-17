@@ -14,6 +14,6 @@ This project seeks to predict both heart disease and diabetes, filling a gap in 
 
 ### Project 3
 ## [Purrfect Identification: Image Classification for Recognizing My Cat and other Cats](https://github.com/sun712k/cat-recognition.git)
-<img src="https://raw.githubusercontent.com/sun712k/cat-recognition/main/image/mellow%20face_recognized.jpg?token=GHSAT0AAAAAACMUF26ETXHRJAZWSXAQYUNUZOQFCFQ" alt="Image" width="500">
+<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/images/mellow%20face_recognized.jpg" alt="Image" width="500">
 
 The project aims to build an image classifier to distinguish between cat images from various breeds and personal photos of my cat, Mellow. Using transfer learning to boost performance due to limited data, the model achieved 100% training accuracy and 95% validation accuracy.
