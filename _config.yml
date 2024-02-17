@@ -6,4 +6,8 @@ show_downloads: True
 theme: jekyll-theme-minimal 
 # https://github.com/pages-themes/minimal
 
+# github:
+#   zip_url: http://example.com/download.zip
+#   resume_url: another value
+#   repo_url: another value
 
