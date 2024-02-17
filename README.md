@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Projects
 
 ### Project 1
 ## [From Stray to Stay: Predicting Adoption for Shelter Cats](https://github.com/sun712k/animal-shelter.git)
