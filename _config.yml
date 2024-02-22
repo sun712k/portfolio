@@ -1,6 +1,12 @@
 title: Sungeun Portfolio
 logo: /assets/img/logo.png
-description: Welcome to my portfolio! This space showcases my journey as a [your profession or field], featuring a collection of my projects, skills, and experiences. From innovative web applications to creative design projects, explore how I bring ideas to life and solve real-world challenges. Dive into my work, learn about my skills and expertise, and discover how I can contribute to your next project. Let's connect and collaborate to make meaningful experiences together.
+description: 
+ 👋 Hello! I'm Sungeun, a passionate data scientist with a knack for turning data into actionable insights. With a background in industrial design, project management, and UX design, I bring a unique perspective to solving complex problems and driving innovation.
+
+💼 I specialize in leveraging Python libraries such as Scikit-learn, Keras, and TensorFlow for various data science tasks. My expertise also includes statistical analysis, exploratory data analysis, classification, clustering, feature engineering, and model evaluation. I'm always eager to learn and explore new tools and techniques in the data science ecosystem.
+
+🔬 In my spare time, you'll find me tinkering with data sets, exploring new machine learning algorithms, and contributing to open-source projects. I'm particularly interested in exploratory data analysis and classification, and I'm passionate about using data science for advancing healthcare outcomes and development cooperation.
+
 
 show_downloads: True
 theme: jekyll-theme-minimal 
