@@ -20,6 +20,6 @@ The project aims to build an image classifier to distinguish between cat images 
 
 ### Project 4
 ## [Cat Vocalizations Clustering: Exploring the Diversity of Cat Meows](https://github.com/sun712k/cat-recognition.git)
-[<img src="https://github.com/sun712k/portfolio/blob/main/images/mellow_meowing.jpg" alt="Image" width="500">](https://github.com/sun712k/cat-vocalization-clustering.git)
+[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/images/mellow_meowing.jpg" alt="Image" width="500">](https://github.com/sun712k/cat-vocalization-clustering.git)
 
 The main aim of this project is to identify distinct vocalizations made by the user's cat, particularly focusing on meow sounds. Utilizing audio feature extraction and PCA, three clustering methods were employed for unsupervised learning. The final voting clustering process identified 11 distinct sounds unanimously agreed upon by all methods.
