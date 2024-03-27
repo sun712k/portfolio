@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Custom CSS
+a {
+  color: #ffa500; /* Change the color to yellow */
+  text-decoration: none;
+}
