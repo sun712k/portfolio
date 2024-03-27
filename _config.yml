@@ -6,6 +6,10 @@ show_downloads: False
 theme: jekyll-theme-minimal 
 # https://github.com/pages-themes/minimal
 
+resume_button:
+  text: "Download Resume"
+  url: "/assets/pdf/resume.pdf"
+
 github:
   zip_url: http://example.com/download.zip
   resume_url: another value
