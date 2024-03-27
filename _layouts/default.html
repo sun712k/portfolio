@@ -29,6 +29,11 @@
         </ul>
         {% endif %}
 
+        {% if site.resume_button %}
+        <a href="{{ site.resume_button.url }}" class="downloads">{{ site.resume_button.text }}</a>
+        {% endif %}
+
+
         <!-- Add a button for downloading the resume -->
         <a href="{{ site.resume_button.url }}" class="button">{{ site.resume_button.text }}</a>
 
