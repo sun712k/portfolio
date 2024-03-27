@@ -9,7 +9,7 @@ This project conducts Exploratory Data Analysis (EDA) on animal shelter data to 
 
 
 ### Project 2
-## [Integrated Health Assessment: Predicting Heart Disease and Diabetes with CDC Data](https://github.com/sun712k/chronic-disease.git)
+## [Integrated Health Assessment: Predicting Heart Disease and Diabetes with CDC Data(ft.streamlit)](https://github.com/sun712k/chronic-disease.git)
 [<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/images/disease-image.jpeg" alt="Image" width="500" >](https://github.com/sun712k/chronic-disease.git)
 
 This project seeks to predict both heart disease and diabetes, filling a gap in existing models focused on individual diseases. Utilizing the 2022 CDC survey data from 400,000+ adults, it uncovers insights on physical status, regional health disparities, and correlations with chronic diseases. This project includes the development of a user-friendly website for predictions. [more](https://github.com/sun712k/chronic-disease.git)
