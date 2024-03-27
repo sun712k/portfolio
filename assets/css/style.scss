@@ -8,3 +8,8 @@ a {
   color: #ff7b00; /* Change the color to yellow */
   text-decoration: none;
 }
+
+a:hover, a:focus {
+  color:#b35600;
+  font-weight: bold;
+}
