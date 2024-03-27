@@ -10,8 +10,8 @@ resume_button:
   text: "Download Resume"
   url: "/assets/pdf/resume.pdf"
 
-github:
-  zip_url: http://example.com/download.zip
-  resume_url: another value
-  repo_url: another value
+# github:
+#   zip_url: http://example.com/download.zip
+#   resume_url: another value
+#   repo_url: another value
 
