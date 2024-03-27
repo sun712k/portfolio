@@ -25,17 +25,13 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="  ">Download <strong>Resume</strong></a></li>
+          <a href="  ">Download <strong>Resume</strong></a>
         </ul>
         {% endif %}
 
         {% if site.resume_button %}
         <a href="{{ site.resume_button.url }}" class="downloads">{{ site.resume_button.text }}</a>
         {% endif %}
-
-
-        <!-- Add a button for downloading the resume -->
-        <a href="{{ site.resume_button.url }}" class="button">{{ site.resume_button.text }}</a>
 
       </header>
       <section>
