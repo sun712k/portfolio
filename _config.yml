@@ -3,7 +3,7 @@ logo: /assets/img/logo3.png
 description: I'm a passionate data scientist with a knack for turning data into actionable insights. With a background in industrial design, project management, and UX design, I bring a unique perspective to solving complex problems and driving innovation. I specialize in leveraging Python libraries such as Scikit-learn, Keras, and TensorFlow for various data science tasks. I'm always eager to learn and explore new tools and techniques in the data science ecosystem.
 
 show_downloads: False
-google_analytics: G-5YBJP5NCMN
+google_analytics: True
 theme: jekyll-theme-minimal 
 # https://github.com/pages-themes/minimal
 
