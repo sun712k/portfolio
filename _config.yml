@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
 
 resume_button:
   text: "Download Resume"
-  url: "/assets/pdf/Resume-Sungeun Kim.pdf"
+  url: "/portfolio/assets/pdf/Resume-Sungeun Kim.pdf"
 
 # github:
 #   zip_url: http://example.com/download.zip
