@@ -8,8 +8,8 @@ theme: jekyll-theme-minimal
 # https://github.com/pages-themes/minimal
 
 resume_button:
-  text: "Download Resume"
-  url: "/portfolio/assets/pdf/Resume-Sungeun.pdf"
+  text: "Linkedin"
+  url: "https://www.linkedin.com/in/sun712k/"
 
 # github:
 #   zip_url: http://example.com/download.zip
