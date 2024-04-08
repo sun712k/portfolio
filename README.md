@@ -3,9 +3,9 @@
 
 ### Project 1
 ## [From Stray to Stay: Predicting Adoption for Shelter Cats](https://github.com/sun712k/animal-shelter.git)
-[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/images/mellow_shelter.jpg" alt="Image" width="500" >](https://github.com/sun712k/animal-shelter.git)
+[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/images/mellow_shelter.jpg" alt="Image" width="500" >](https://github.com/sun712k/animal-shelter.git){:target="_blank"}
 
-This project conducts Exploratory Data Analysis (EDA) on animal shelter data to create a binary classification model predicting cat adoption. By identifying factors influencing adoption, it aims to improve care and support for animals. The final voting classifier model achieved a 77% accuracy and 81% F1 score for adoption prediction. [more](https://github.com/sun712k/animal-shelter.git)
+This project conducts Exploratory Data Analysis (EDA) on animal shelter data to create a binary classification model predicting cat adoption. By identifying factors influencing adoption, it aims to improve care and support for animals. The final voting classifier model achieved a 77% accuracy and 81% F1 score for adoption prediction. [more](https://github.com/sun712k/animal-shelter.git){:target="_blank"}
 
 
 ### Project 2
