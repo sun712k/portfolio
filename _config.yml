@@ -2,9 +2,9 @@ title: Sung's Portfolio
 logo: /assets/img/logo3.png
 description: This portfolio presents my work in data analysis and UX design, highlighting projects that use machine learning tools, data visualization, and user-centered design to connect technology with real users and socially meaningful outcomes.
 
-show_downloads: False
-google_analytics: True
-theme: jekyll-theme-minimal 
+show_downloads: false
+google_analytics: true
+theme: jekyll-theme-minimal
 # https://github.com/pages-themes/minimal
 
 resume_button:
