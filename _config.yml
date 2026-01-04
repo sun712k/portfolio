@@ -12,6 +12,12 @@ resume_button:
   text: "Linkedin"
   url: "https://www.linkedin.com/in/sun712k/"
 
+navigation:
+  - title: Data Analysis
+    url: /
+  - title: UX Design
+    url: /ux-design/
+
 # github:
 #   zip_url: http://example.com/download.zip
 #   resume_url: another value
