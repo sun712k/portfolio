@@ -1,42 +1,15 @@
---- --- @import "jekyll-theme-minimal";
+---
+---
 
-/* Custom Overrides */
+@import "{{ site.theme }}";
 
-/* Reduce Header Width */
-/* The minimal theme usually has a wrapper or header element. 
-   Assuming standard minimal theme structure or based on default.html inspection. 
-   In default.html, header is inside div class="wrapper". 
-   Let's target the header specifically. */
-
-header {
-  width: 200px;
-  /* Default for minimal theme is usually around 270px-300px sidebar. Reducing it. */
-  /* Or if it's a mobile view, checking media queries might be needed, but starting with base. */
+// Custom CSS
+a {
+  color: #ff7b00; /* Change the color to yellow */
+  text-decoration: none;
 }
 
-/* Reduce Logo Size */
-header img {
-  width: 66%;
-  /* 2/3 of logical size */
-  height: auto;
-  border-radius: 50%;
-  /* Keeping it circular if it was, looks like it from context, or just safe default for profiles */
-  margin-bottom: 20px;
-}
-
-/* Adjust wrapper to account for narrower header if necessary 
-   The default theme puts header float left. 
-*/
-@media print,
-screen and (min-width: 960px) {
-  header {
-    width: 200px;
-    /* Constraining width on desktop */
-  }
-
-  section {
-    /* Adjust section margin/width if header is narrower to keep layout balanced?
-          Default minimal theme section width is usually calculated or fluid. 
-          Let's just stick to shrinking header first as requested. */
-  }
+a:hover, a:focus {
+  color:#8c52ff;
+  font-weight: bold;
 }

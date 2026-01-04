@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Data Science Projects
+# Data Science Portfolio Projects
 
 
 ### Project 1
