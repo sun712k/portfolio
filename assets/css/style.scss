@@ -14,6 +14,14 @@ a:hover, a:focus {
   font-weight: bold;
 }
 
+.sidebar-logo {
+  width: 66%;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  display: block;
+}
+
 /* Tab Folder Styles */
 .tabs {
   display: flex;
