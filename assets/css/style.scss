@@ -13,3 +13,70 @@ a:hover, a:focus {
   color:#8c52ff;
   font-weight: bold;
 }
+
+/* Tab Folder Styles */
+.tabs {
+  display: flex;
+  margin-bottom: -1px; /* Overlap with content-wrapper border */
+  position: relative;
+  z-index: 2;
+  gap: 5px;
+}
+
+.tabs a {
+  padding: 12px 25px;
+  border: 1px solid #e0e0e0;
+  border-bottom: none;
+  background: #f7f7f7;
+  color: #777 !important; /* Override global link color for tabs */
+  text-decoration: none;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  font-size: 1em;
+  transition: all 0.3s ease;
+}
+
+.tabs a.current {
+  background: #ffffff;
+  border-bottom: 1px solid #ffffff; /* Hide the top border of content-wrapper */
+  color: #333 !important;
+  font-weight: bold;
+}
+
+.tabs a:hover:not(.current) {
+  background: #eeeeee;
+  color: #8c52ff !important;
+}
+
+.content-wrapper {
+  border: 1px solid #e0e0e0;
+  padding: 40px;
+  background: #ffffff;
+  border-radius: 0 10px 10px 10px;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+}
+
+/* Adjustments for Minimal Theme */
+section {
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 640px) {
+  .tabs {
+    flex-direction: column;
+    gap: 0;
+    margin-bottom: 0;
+  }
+  
+  .tabs a {
+    border-radius: 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .content-wrapper {
+    border-radius: 0;
+    padding: 20px;
+  }
+}
