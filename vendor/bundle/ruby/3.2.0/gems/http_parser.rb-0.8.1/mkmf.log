@@ -1,1 +1,0 @@
-DYLD_FALLBACK_LIBRARY_PATH=.:/Users/sungeun/anaconda3/envs/portfolio_env/lib "git submodule init"
