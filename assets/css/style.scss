@@ -23,7 +23,7 @@ a:hover, a:focus {
 }
 
 .wrapper {
-  max-width: 960px !important;
+  max-width: 980px !important; /* Increased to accommodate both columns comfortably */
   margin: 0 auto;
 }
 
@@ -31,11 +31,11 @@ a:hover, a:focus {
   header {
     width: 250px !important;
     text-align: center;
-    padding-right: 10px;
+    padding-right: 20px; /* More breathing room between sidebar and content */
   }
 
   section {
-    width: 700px !important; /* Move closer to sidebar */
+    width: 650px !important; /* Slightly reduced to prevent wrapping/overlap */
     float: right;
   }
 }
