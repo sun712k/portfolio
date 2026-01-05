@@ -14,7 +14,7 @@ This project investigates whether high-altitude environments are a causal driver
 
 ### Project 2
 ## [Cancer Incidence & Survival: Tableau Dashboard](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
-[<img src="https://github.com/user-attachments/assets/9bec2cee-1593-454c-8dda-c057e1082c44" alt="Image" width="500">](https://public.tableau.com/app/profile/sungeun.kim6846/viz/CancerIncidenceandSurvival/CANCERdashboard){:target="_blank"}
+[<img src="https://github.com/user-attachments/assets/9bec2cee-1593-454c-8dda-c057e1082c44" alt="Image" width="500">](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 
 This project analyzes U.S. cancer incidence, mortality, and survival data to build an interactive Tableau dashboard inspired by Cancer Facts & Figures 2025. By examining geographic patterns, mortality-to-incidence ratios (MIR), and healthcare system performance, it highlights disparities and progress across states, cancer types, and sexes. The dashboard translates complex public health statistics into accessible, exploratory insights for researchers, policymakers, and the public. [more](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 
