@@ -7,6 +7,7 @@ layout: default
 ### Project 1
 ## [Altitude and Olympic Marathon Performance](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
 [<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/assets/img/marathon.jpg" alt="Image" width="500">](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
+<small>Image by [Peter Mooney](https://www.flickr.com/photos/peterm7/7773679912) via Flickr (CC BY-SA 2.0)</small>
 
 This project investigates whether high-altitude environments are a causal driver of elite endurance running performance using Olympic marathon data. It utilizes both between-country and within-country analyses to distinguish physiological effects of altitude from cultural and socioeconomic factors. [more](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
 
