@@ -14,14 +14,14 @@ This project investigates whether high-altitude environments are a causal driver
 
 ### Project 2
 ## [Cancer Incidence & Survival: Tableau Dashboard](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
-[<img src="https://github.com/user-attachments/assets/9bec2cee-1593-454c-8dda-c057e1082c44" alt="Image" width="500">](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
+[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/assets/img/cancer_dashboard.png" alt="Image" width="500">](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 
 This project analyzes U.S. cancer incidence, mortality, and survival data to build an interactive Tableau dashboard inspired by Cancer Facts & Figures 2025. By examining geographic patterns, mortality-to-incidence ratios (MIR), and healthcare system performance, it highlights disparities and progress across states, cancer types, and sexes. The dashboard translates complex public health statistics into accessible, exploratory insights for researchers, policymakers, and the public. [more](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 
 
 ### Project 3
 ## [Chronic Disease Prediction: Streamlit App](https://github.com/sun712k/chronic-disease.git){:target="_blank"}
-[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/assets/img/disease-image.jpeg" alt="Image" width="500" >](https://github.com/sun712k/chronic-disease.git){:target="_blank"}
+[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/assets/img/chronic_disease.png" alt="Image" width="500" >](https://github.com/sun712k/chronic-disease.git){:target="_blank"}
 
 This project seeks to predict both heart disease and diabetes, filling a gap in existing models focused on individual diseases. Utilizing the 2022 CDC survey data from 400,000+ adults, it uncovers insights on physical status, regional health disparities, and correlations with chronic diseases. This project includes the development of a user-friendly website for predictions. [more](https://github.com/sun712k/chronic-disease.git){:target="_blank"}
 
