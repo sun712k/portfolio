@@ -37,3 +37,10 @@ The main aim of this project is to identify distinct vocalizations made by my ca
 [<img src="https://github.com/user-attachments/assets/9bec2cee-1593-454c-8dda-c057e1082c44" alt="Image" width="500">](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 
 This interactive Tableau dashboard analyzes cancer incidence, mortality rates, and survival trends across the US. By integrating data on Mortality-to-Incidence Ratios (MIR) and healthcare quality rankings, it highlights significant correlations between state health performance and cancer outcomes. The project provides actionable insights into geographical disparities and survival improvements over time. [more](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
+
+
+### Project 6
+## [Altitude and Elite Marathon Performance](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
+[<img src="https://private-user-images.githubusercontent.com/120434553/500680286-f70e1067-df49-4972-a0a4-146875c42b8a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc1NzM0NDMsIm5iZiI6MTc2NzU3MzE0MywicGF0aCI6Ii8xMjA0MzQ1NTMvNTAwNjgwMjg2LWY3MGUxMDY3LWRmNDktNDk3Mi1hMGE0LTE0Njg3NWM0MmI4YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwNVQwMDMyMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNmQ1M2JlZGI2ZDdkYTI2ZjRiNWIzYzY1OGY4ZjhiMjY3ZjgzMzY0MjkzY2IyZDg3NjdjNzIwZWJmOGVmZjkwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uHAsibdGgP-JyF5vHrguQ0pe1oYP5XcW_QSZKEOk2zE" alt="Image" width="500">](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
+
+This project investigates whether high-altitude environments are a causal driver of elite endurance running performance using Olympic marathon data. It utilizes both between-country and within-country analyses to distinguish physiological effects of altitude from cultural and socioeconomic factors. [more](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
