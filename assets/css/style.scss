@@ -18,8 +18,26 @@ a:hover, a:focus {
   width: 66%;
   max-width: 100%;
   height: auto;
-  margin-bottom: 20px;
+  margin: 0 auto 20px !important;
   display: block;
+}
+
+.wrapper {
+  max-width: 960px !important;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 771px) {
+  header {
+    width: 250px !important;
+    text-align: center;
+    padding-right: 10px;
+  }
+
+  section {
+    width: 700px !important; /* Move closer to sidebar */
+    float: right;
+  }
 }
 
 /* Tab Folder Styles */

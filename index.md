@@ -30,3 +30,10 @@ The project aims to build an image classifier to distinguish between cat images 
 [<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/images/mellow_meowing.jpg" alt="Image" width="500">](https://github.com/sun712k/cat-vocalization-clustering.git){:target="_blank"}
 
 The main aim of this project is to identify distinct vocalizations made by my cat, particularly focusing on meow sounds. Utilizing audio feature extraction and PCA, three clustering methods were employed for unsupervised learning. The final voting clustering process identified 11 distinct sounds unanimously agreed upon by all methods. [more](https://github.com/sun712k/cat-vocalization-clustering.git){:target="_blank"}
+
+
+### Project 5
+## [Cancer Incidence and Survival Dashboard: A Tableau Analysis](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
+[<img src="https://github.com/user-attachments/assets/9bec2cee-1593-454c-8dda-c057e1082c44" alt="Image" width="500">](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
+
+This interactive Tableau dashboard analyzes cancer incidence, mortality rates, and survival trends across the US. By integrating data on Mortality-to-Incidence Ratios (MIR) and healthcare quality rankings, it highlights significant correlations between state health performance and cancer outcomes. The project provides actionable insights into geographical disparities and survival improvements over time. [more](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
