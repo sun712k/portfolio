@@ -94,6 +94,14 @@ section {
   padding-top: 20px;
 }
 
+.tab-content h3 {
+  margin-top: 120px; /* Significant gap between projects */
+}
+
+.tab-content h3:first-of-type {
+  margin-top: 0; /* No gap for the very first project */
+}
+
 @media screen and (max-width: 640px) {
   .tabs {
     flex-direction: column;
