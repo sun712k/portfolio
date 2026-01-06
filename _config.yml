@@ -7,9 +7,9 @@ google_analytics: True
 theme: jekyll-theme-minimal 
 # https://github.com/pages-themes/minimal
 
-resume_button:
-  text: "Resume"
-  url: "/assets/pdf/resume.pdf"
+# resume_button:
+#   text: "Resume"
+#   url: "/assets/pdf/resume.pdf"
 
 navigation:
   - title: Data Science
