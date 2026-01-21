@@ -12,7 +12,7 @@ theme: jekyll-theme-minimal
 #   url: "/assets/pdf/resume.pdf"
 
 navigation:
-  - title: Data Science
+  - title: Data Analytics
     url: /
   - title: UX Design
     url: /ux-design/
