@@ -5,19 +5,17 @@ layout: default
 
 
 ### Project 1
-## [Altitude and Olympic Marathon Performance](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
-[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/assets/img/marathon.jpg" alt="Image" width="500">](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
-<small>Image by [Peter Mooney](https://www.flickr.com/photos/peterm7/7773679912) via Flickr (CC BY-SA 2.0)</small>
-
-This project investigates whether high-altitude environments are a causal driver of elite endurance running performance using Olympic marathon data. It utilizes both between-country and within-country analyses to distinguish physiological effects of altitude from cultural and socioeconomic factors. [more](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
-
-
-### Project 2
 ## [Cancer Incidence & Survival: Tableau Dashboard](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 [<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/assets/img/cancer_dashboard.png" alt="Image" width="500">](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 
 This project analyzes U.S. cancer incidence, mortality, and survival data to build an interactive Tableau dashboard inspired by Cancer Facts & Figures 2025. By examining geographic patterns, mortality-to-incidence ratios (MIR), and healthcare system performance, it highlights disparities and progress across states, cancer types, and sexes. The dashboard translates complex public health statistics into accessible, exploratory insights for researchers, policymakers, and the public. [more](https://github.com/sun712k/Cancer-Data-Analysis-Tableau){:target="_blank"}
 
+### Project 2
+## [Altitude and Olympic Marathon Performance](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
+[<img src="https://raw.githubusercontent.com/sun712k/portfolio/main/assets/img/marathon.jpg" alt="Image" width="500">](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
+<small>Image by [Peter Mooney](https://www.flickr.com/photos/peterm7/7773679912) via Flickr (CC BY-SA 2.0)</small>
+
+This project investigates whether high-altitude environments are a causal driver of elite endurance running performance using Olympic marathon data. It utilizes both between-country and within-country analyses to distinguish physiological effects of altitude from cultural and socioeconomic factors. [more](https://github.com/sun712k/Altitude-and-Marathon){:target="_blank"}
 
 ### Project 3
 ## [Chronic Disease Prediction: Streamlit App](https://github.com/sun712k/chronic-disease.git){:target="_blank"}
